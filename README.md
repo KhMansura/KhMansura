@@ -12,7 +12,10 @@
 
 <!-- Banner: Animated Developer SVG -->
 <div align="center">
-  <img src="https://svgshare.com/i/15Q2.svg" alt="Developer Dashboard" width="100%" style="max-width: 800px; border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/KhMansura/KhMansura/main/banner.svg" 
+       alt="Developer Banner" 
+       width="100%" 
+       style="max-width: 800px; border-radius: 12px;" />
 </div>
 
 ---
@@ -52,21 +55,23 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
 
+<!-- GitHub Stats -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top" width="33%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmansura&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khmansura&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
     </td>
     <td align="center" valign="top" width="33%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khmansura&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khmansura&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" valign="top" width="33%">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khmansura&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khmansura&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 ---
 
