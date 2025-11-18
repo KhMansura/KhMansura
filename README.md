@@ -27,6 +27,18 @@
     <img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/05/best-git-gui-clients.jpg" alt="Git GUI Clients Banner" />
   </a>
 </div> -->
+## 🎞️ GitHub Repo Banner (Animated Style)
+
+[![GitHub Repo Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/KhMansura)
+
+<!-- Optional: Centered version using HTML -->
+<!--
+<div align="center">
+  <a href="https://github.com/KhMansura">
+    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GitHub Repo Banner" />
+  </a>
+</div>
+-->
 <div align="center">
   <a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github">
     <img src="https://cdn-wcsm.alura.com.br/2025/04/como-criar-um-readme-para-seu-perfil-github.jpg" alt="GitHub README Guide" />
@@ -40,6 +52,7 @@
 📍 **Dhaka, Bangladesh** | ✉️ **iam.khmansura@yandex.com**
 
 <img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULsHZ8TgxbS0ApuMGdmqeGr2V3vFcozMxLDkwwb6WXyxVjkUTYhtDZ7ewgPUGE3uJgeI&usqp=CAU​">
+<img align="right" alt="Coding GIF" width="200" src="https://your-hosted-link/coding.gif">
 > 🌱 Building full-stack web apps with **React, Node.js, and Firebase**
 >  — focused on clean UI, responsive design, and user-first experiences.
 
