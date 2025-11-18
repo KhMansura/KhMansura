@@ -11,11 +11,26 @@
 -->
 
 <!-- Banner: Animated Developer SVG -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/KhMansura/KhMansura/main/banner.svg" 
        alt="Developer Banner" 
        width="100%" 
        style="max-width: 800px; border-radius: 12px;" />
+</div>
+<div align="center">
+  <a href="https://1password.com/blog/git-commit-signing">
+    <img src="https://images.ctfassets.net/3091ajzcmzlr/4AXgYBOW0LvkGQv7MGCARP/c9527989842f42026bc7c9cb09d44dd1/ssh-and-git_-meet-1password-_-header" alt="Banner" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.hostinger.com/tutorials/best-git-gui-clients">
+    <img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/05/best-git-gui-clients.jpg" alt="Git GUI Clients Banner" />
+  </a>
+</div> -->
+<div align="center">
+  <a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github">
+    <img src="https://cdn-wcsm.alura.com.br/2025/04/como-criar-um-readme-para-seu-perfil-github.jpg" alt="GitHub README Guide" />
+  </a>
 </div>
 
 ---
@@ -24,7 +39,9 @@
 ### 🌐 Frontend Developer & MERN Stack Enthusiast  
 📍 **Dhaka, Bangladesh** | ✉️ **iam.khmansura@yandex.com**
 
-> 🌱 Building full-stack web apps with **React, Node.js, and Firebase** — focused on clean UI, responsive design, and user-first experiences.
+<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULsHZ8TgxbS0ApuMGdmqeGr2V3vFcozMxLDkwwb6WXyxVjkUTYhtDZ7ewgPUGE3uJgeI&usqp=CAU​">
+> 🌱 Building full-stack web apps with **React, Node.js, and Firebase**
+>  — focused on clean UI, responsive design, and user-first experiences.
 
 
 - 🌱 Learning **Context API, secure auth flows, and deployment best practices**  
@@ -74,8 +91,6 @@
 
 
 ---
-
-> 💡 Inspired by design systems from [uiverse.io](https://uiverse.io/) (Hero Banner 189), [devmeetsdevs.com](https://devmeetsdevs.com/) (Footer 183, Why Choose Us 62), and [ThemeForest](https://themeforest.net/).
 
 
 <!-- GitHub Stats (Alternative - if you prefer the 3-box layout) -->
