@@ -27,9 +27,8 @@
     <img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/05/best-git-gui-clients.jpg" alt="Git GUI Clients Banner" />
   </a>
 </div> -->
-## 🎞️ GitHub Repo Banner (Animated Style)
 
-[![GitHub Repo Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/KhMansura)
+
 
 <!-- Optional: Centered version using HTML -->
 <!--
@@ -39,23 +38,28 @@
   </a>
 </div>
 -->
-<!-- <div align="center">
+<div align="center">
   <a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github">
     <img src="https://cdn-wcsm.alura.com.br/2025/04/como-criar-um-readme-para-seu-perfil-github.jpg" alt="GitHub README Guide" />
   </a>
-</div> -->
+</div> 
 
 ---
 
 # Hi 👋, I'm **Khandaker Mansura**  
-### 🌐 Frontend Developer & MERN Stack Enthusiast  
+### 🌐 I’m a passionate Beginner MERN stack developer.Strengthening core skills in HTML, CSS, Tailwind, and JavaScript. Currently exploring React, Firebase, Node.js, and MongoDB.Working on full-stack and AI-integrated real-life projects
+
+
 📍 **Dhaka, Bangladesh** | ✉️ **iam.khmansura@yandex.com**
 
+
+
 <!-- <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4cTJxNWR1eDg0OHA1ZGd2cHczeGRhbnZiNDczOHNwNGlocDVrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"> -->
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkzd3pqdmw4Z3I0ZmQ0eHhlNm9zaGVic25mYzMxazBkbHRrcmpvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsxJmP0ueJH1gskZRA/giphy.gif">
+
 
 > 🌱 Building full-stack web apps with **React, Node.js, and Firebase**
 >  — focused on clean UI, responsive design, and user-first experiences.
+> <img align="right" alt="Coding" width="240" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkzd3pqdmw4Z3I0ZmQ0eHhlNm9zaGVic25mYzMxazBkbHRrcmpvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsxJmP0ueJH1gskZRA/giphy.gif">
 
 
 - 🌱 Learning **Context API, secure auth flows, and deployment best practices**  
@@ -65,9 +69,9 @@
 ---
 
 ## 🔗 Connect with Me
-[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/yourhandle)
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/KhMansura)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 
 
@@ -105,6 +109,22 @@
 
 
 ---
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khmansura" alt="GitHub Trophies" />
+  </a>
+</p>
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=khmansura&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+
+
+---
+
 
 
 <!-- GitHub Stats (Alternative - if you prefer the 3-box layout) -->
