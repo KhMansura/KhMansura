@@ -39,11 +39,11 @@
   </a>
 </div>
 -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github">
     <img src="https://cdn-wcsm.alura.com.br/2025/04/como-criar-um-readme-para-seu-perfil-github.jpg" alt="GitHub README Guide" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -51,8 +51,9 @@
 ### 🌐 Frontend Developer & MERN Stack Enthusiast  
 📍 **Dhaka, Bangladesh** | ✉️ **iam.khmansura@yandex.com**
 
-<img align="right" alt="Coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULsHZ8TgxbS0ApuMGdmqeGr2V3vFcozMxLDkwwb6WXyxVjkUTYhtDZ7ewgPUGE3uJgeI&usqp=CAU​">
-<img align="right" alt="Coding GIF" width="200" src="https://your-hosted-link/coding.gif">
+<!-- <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4cTJxNWR1eDg0OHA1ZGd2cHczeGRhbnZiNDczOHNwNGlocDVrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"> -->
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkzd3pqdmw4Z3I0ZmQ0eHhlNm9zaGVic25mYzMxazBkbHRrcmpvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsxJmP0ueJH1gskZRA/giphy.gif">
+
 > 🌱 Building full-stack web apps with **React, Node.js, and Firebase**
 >  — focused on clean UI, responsive design, and user-first experiences.
 
