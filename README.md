@@ -47,7 +47,8 @@
 ---
 
 # Hi 👋, I'm **Khandaker Mansura**  
-### ### 🌐 Beginner MERN & Next.js Developer | Learning Full‑Stack Development I’m a passionate beginner MERN stack developer, strengthening my core skills in **HTML, CSS, Tailwind, and JavaScript**. Currently exploring **React, Next.js, Firebase, Node.js, and MongoDB**, and working on full‑stack and AI‑integrated real‑life projects.
+### 🌐 Beginner MERN Stack Developer | 
+Learning Full‑Stack Development I’m a passionate beginner MERN stack developer, strengthening my core skills in **HTML, CSS, Tailwind, and JavaScript**. Currently exploring **React, Next.js, Firebase, Node.js, and MongoDB**, and working on full‑stack and AI‑integrated real‑life projects.
 
 
 📍 **Dhaka, Bangladesh** | ✉️ **iam.khmansura@yandex.com**
@@ -66,6 +67,7 @@
 - 🛠️ Building **full‑stack MERN + Next.js** projects
 - 📦 Practicing deployment using **Vercel, Netlify, and Firebase** 
 - 🎓 Open to **internships, collaborations, and open-source contributions**
+- I’m working on Care‑XYZ, a full‑stack MERN + Next.js  project designed to provide seamless service booking and real‑life user interactions.
 - focused on clean UI, responsive design, and user-first experiences.
 
 ---
