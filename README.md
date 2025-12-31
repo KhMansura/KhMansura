@@ -42,7 +42,10 @@
   <a href="https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github">
     <img src="https://cdn-wcsm.alura.com.br/2025/04/como-criar-um-readme-para-seu-perfil-github.jpg" alt="GitHub README Guide" />
   </a>
-</div> 
+</div>
+
+<!-- ✨ Animated typing text  --> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Learning+Next.js;Building+Full-Stack+Projects" /> </p>
 
 ---
 
