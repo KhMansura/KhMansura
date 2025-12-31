@@ -85,11 +85,12 @@
 | Category | Tools & Technologies |
 |----------|----------------------|
 | **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) ![daisyUI](https://img.shields.io/badge/-daisyUI-5A67D8?logo=tailwindcss&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white) ![daisyUI](https://img.shields.io/badge/-daisyUI-5A67D8?logo=tailwindcss&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white) |
 | **Auth & Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Tools & Platforms** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Surge](https://img.shields.io/badge/-Surge-1A85FF?logo=surge&logoColor=white) |
+| **Tools & Platforms** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Surge](https://img.shields.io/badge/-Surge-1A85FF?logo=surge&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black) |
+
 
 ---
 
