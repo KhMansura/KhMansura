@@ -47,7 +47,7 @@
 ---
 
 # Hi 👋, I'm **Khandaker Mansura**  
-### 🌐 I’m a passionate Beginner MERN stack developer.Strengthening core skills in HTML, CSS, Tailwind, and JavaScript. Currently exploring React, Firebase, Node.js, and MongoDB.Working on full-stack and AI-integrated real-life projects
+### ### 🌐 Beginner MERN & Next.js Developer | Learning Full‑Stack Development I’m a passionate beginner MERN stack developer, strengthening my core skills in **HTML, CSS, Tailwind, and JavaScript**. Currently exploring **React, Next.js, Firebase, Node.js, and MongoDB**, and working on full‑stack and AI‑integrated real‑life projects.
 
 
 📍 **Dhaka, Bangladesh** | ✉️ **iam.khmansura@yandex.com**
@@ -57,14 +57,16 @@
 <!-- <img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4cTJxNWR1eDg0OHA1ZGd2cHczeGRhbnZiNDczOHNwNGlocDVrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif"> -->
 
 
-> 🌱 Building full-stack web apps with **React, Node.js, and Firebase**
->  — focused on clean UI, responsive design, and user-first experiences.
+
 > <img align="right" alt="Coding" width="240" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkzd3pqdmw4Z3I0ZmQ0eHhlNm9zaGVic25mYzMxazBkbHRrcmpvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsxJmP0ueJH1gskZRA/giphy.gif">
 
-
-- 🌱 Learning **Context API, secure auth flows, and deployment best practices**  
-- 💬 Ask me about **React, Express, MongoDB, Firebase, and Tailwind**  
+### 🔥 Current Activities
+- 🌱 Learning **Next.js, Context API, secure auth flows, and deployment best practices**  
+- 💬 Ask me about **React, Express, MongoDB, Firebase, and Tailwind**
+- 🛠️ Building **full‑stack MERN + Next.js** projects
+- 📦 Practicing deployment using **Vercel, Netlify, and Firebase** 
 - 🎓 Open to **internships, collaborations, and open-source contributions**
+- focused on clean UI, responsive design, and user-first experiences.
 
 ---
 
@@ -72,6 +74,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/KhMansura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kh-mansura/) 
 
 
 
